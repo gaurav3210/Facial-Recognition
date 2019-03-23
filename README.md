@@ -1,5 +1,6 @@
 # Facial-Recognition
-Supervised Machine Learning Model for facial recognition
+Supervised Machine Learning Model for facial recognition.
+T
 TASKS PERFORMED:
 Task 1:
 #Loading data
